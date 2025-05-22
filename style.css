@@ -76,7 +76,7 @@ transition: 0,03s ease;
 #navbar li a:hover::after{
     content: "";
     width: 30%;
-    height: px;
+    height: 2px;
     position: absolute;
    background-color: #088178;
     bottom: -4px;
