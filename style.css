@@ -1,6 +1,11 @@
 
 body {
-    font-family: "Open Sans", sans-serif;
+.ancizar-sans-<uniquifier> {
+  font-family: "Ancizar Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
     width: 100%;
 }
 p{
